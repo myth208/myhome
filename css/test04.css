@@ -1,0 +1,17 @@
+.swiper-container{
+    width:800px;
+    height: 400px;}
+
+    .slide01{
+        background-color: red;
+      }
+
+      .slide02{
+        background-color: blue;
+      }
+      .slide03{
+        background-color: yellow;
+      }
+      .slide04{
+        background-color:pink;
+      }
